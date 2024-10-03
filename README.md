@@ -50,5 +50,5 @@ Cities such as **Fremont** with its proximity to **major hubs and high median ho
 
 Refer to the presentation for more insights on the project. 
 
-Link - 
+[Real Estate Listing Trend Analysis](https://github.com/saraswatdinesh/Real_Estate_Listing_Trend_Analysis/blob/main/Real%20Estate%20Listing%20Trend%20Analysis.pdf)
 
