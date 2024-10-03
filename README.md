@@ -32,15 +32,17 @@ We did the parsing of the downloaded JSON into a tabular format for easier data 
     **Practically you cannot own a 4-bed property if you are earning the median income in almost all the Bay Area prominent cities** couple of exceptions Brentwood, Concord, Vacaville, Antioch, and Vallejo.
 
     Some cities like **Napa** are viable options for only **ultra-rich and HNI individuals** as the EMI amount needed for listed properties is higher than the median monthly income of most of the households. The **same goes for San Francisco** as well.
-   ![output4bed](https://github.com/user-attachments/assets/bd10986a-1b42-4ac3-842c-4e9974e08e5b)
+![output4bed](https://github.com/user-attachments/assets/bd10986a-1b42-4ac3-842c-4e9974e08e5b)
 
     A similar trend continues for **3 beds** as well. 
 ![output3bed](https://github.com/user-attachments/assets/2b92ee6f-7af5-4cac-a395-262dde42b455)
     
     **2 beds seem to be more affordable** in most of the cities **except** cities like **San Francisco, Napa, Oakland, San Mateo, and Berkeley, which is kind of expected**. 
+![output2bed](https://github.com/user-attachments/assets/04291652-5741-4913-8be8-d294df5475ba)
+
     
    **1 bed and condos is what most of the households can afford at present**. 
-    ![output](https://github.com/user-attachments/assets/564bd512-71c5-42ba-9936-70ae191abc4d)
+![output](https://github.com/user-attachments/assets/564bd512-71c5-42ba-9936-70ae191abc4d)
 
 **Looking at the price affordability as well the market is also catering to the needs by listing single-family and condos which amounts to around 80% of the total listings and hence explains the squeeze in the market for single-family homes.**
 
